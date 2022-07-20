@@ -76,7 +76,7 @@ https://www.youtube.com/watch?v=F3cilMQAwzQ&ab_channel=MohammadKaisarHamid
 
 REMEMBER!! This looks like a game but it's not. This is UFONET a powerfull hacking tool. Do not use it for criminal purposes.
 
-![maxresdefault](https://user-images.githubusercontent.com/109109176/180068176-b7980bca-3b88-4fd7-837c-41bb52143a95.jpg)
+![2](https://user-images.githubusercontent.com/109109176/180070577-cf485318-522a-4aa0-9d66-758145294bd1.PNG)
 
 
 UFONet - is a tool designed to launch DDoS attacks against a target, using Open Redirect vectors on third party web applications, like botnet.
@@ -97,6 +97,8 @@ Scroll down the page, and you can see the process like in the terminal.
 When the process finish, reload the page (ctrl+r)...
 
 CONGRATULATIONS!! Now you have your own army, use it with caution.
+
+![3](https://user-images.githubusercontent.com/109109176/180070997-a6671a70-af24-4fce-8c3e-d8de8d657315.PNG)
 
 
 
