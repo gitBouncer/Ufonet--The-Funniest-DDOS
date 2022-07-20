@@ -5,7 +5,7 @@ Create your own botnet and enjoy it
 For fans of botnets, I have developed this room where we will download our own zombie army botnet and attack a virtual machine on our own network.
 
 Here you have the link to Try Hack Me: https://tryhackme.com/
-And the link to my Blockchain room: https://tryhackme.com/jr/blockchainvkkgjrphsh
+And the link to my Botnet room: https://tryhackme.com/jr/blockchainvkkgjrphsh
 
 ![ds](https://user-images.githubusercontent.com/109109176/180066396-21c22049-01a0-4771-97b2-36ac23ed9ba9.jpeg)
 
