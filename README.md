@@ -24,21 +24,21 @@ Open your linux attack machine and run a terminal. Copy paste the following comm
 
 ftp ip;
 
-# (ip= ip of "Bouncer Store")
+(ip= ip of "Bouncer Store")
 
-# Introduce the user:
+Introduce the user:
 
 bouncer
 
-# Enter the password:
+Enter the password:
 
 cyberbouncer
 
-# Download the simulator with the command:
+Download the simulator with the command:
 
 get ufonet-master.zip
 
-# We can exit from ftp session with:
+We can exit from ftp session with:
 
 Ctl + D
 
@@ -46,17 +46,17 @@ Ctl + D
 
 Now we are in possession of the tool the next step is to install it in our linux attack machine:
 
-# The file is in zip format...
+The file is in zip format...
 
-# Unzip the tool: 
+Unzip the tool: 
 
 unzip ufonet-master.zip;
 
-# Move to the tool directory:
+Move to the tool directory:
 
 cd ufonet-master;
 
-# Install the tool and run its gui:
+Install the tool and run its gui:
 
 
 sudo python3 setup.py build && sudo python3 setup.py install && sudo apt install python3-scapy; 
