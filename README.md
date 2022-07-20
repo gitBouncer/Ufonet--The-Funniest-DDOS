@@ -2,7 +2,7 @@
 
 Create your own botnet and enjoy it
 
-For fans of botnets, I have developed this room where we will download our own zombie army botnet and attack a virtual machine on our own network.
+For fans of botnets, I have developed this room where we will download our own zombie army botnet and attack a virtual machine on our own network. Here I leave you the complete walkthrough. Have fun!
 
 Here you have the link to my Botnet room: https://tryhackme.com/jr/blockchainvkkgjrphsh
 
