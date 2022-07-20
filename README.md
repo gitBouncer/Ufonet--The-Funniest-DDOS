@@ -3,6 +3,7 @@
 Create your own botnet and enjoy it
 
 For fans of botnets, I have developed this room where we will download our own zombie army botnet and attack a virtual machine on our own network.
+
 ![ds](https://user-images.githubusercontent.com/109109176/180066396-21c22049-01a0-4771-97b2-36ac23ed9ba9.jpeg)
 
 
@@ -42,6 +43,7 @@ We can exit from ftp session with:
 
 Ctl + D
 
+![1](https://user-images.githubusercontent.com/109109176/180069773-e744aa5c-e4bc-4bb6-9df9-6bc504d57665.PNG)
 
 
 Now we are in possession of the tool the next step is to install it in our linux attack machine:
@@ -96,4 +98,18 @@ When the process finish, reload the page (ctrl+r)...
 
 CONGRATULATIONS!! Now you have your own army, use it with caution.
 
-![Universidades-objetivo-botnets-1021x580](https://user-images.githubusercontent.com/109109176/180066403-58cd63af-91c1-4dd2-9623-adff60be20a2.jpg)
+
+
+Question #1:
+
+In the Botnet menu, we can see what types of bots make up our botnet.
+
+Which one of this types of bot is not related with "Ufonet"? (Answer "a" or "b" or "c")
+
+a) Droids
+
+b) Aliens
+
+c) Robots
+
+Answer #1:
