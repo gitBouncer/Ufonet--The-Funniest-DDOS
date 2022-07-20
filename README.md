@@ -115,3 +115,8 @@ b) Aliens
 c) Robots
 
 Answer #1:
+
+c
+
+![4](https://user-images.githubusercontent.com/109109176/180071556-44643481-dfc9-4957-a649-aa648d043b24.PNG)
+
