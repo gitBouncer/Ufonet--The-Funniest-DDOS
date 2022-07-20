@@ -120,3 +120,121 @@ c
 
 ![4](https://user-images.githubusercontent.com/109109176/180071556-44643481-dfc9-4957-a649-aa648d043b24.PNG)
 
+Question #2:
+
+Which are the predominant bots in our botnet?
+
+Answer #2:
+
+zombies
+
+Question #3:
+
+Ufonet allows us to scan our target with some options:
+
+Use the interactive menu to go to "Wormhole" > "Explore"
+Click on: "ship abduction"
+Another window opens to us...
+In "Set your target", write:     "http://ip"       (ip = ip target machine, "Bouncer Store")
+Click on: "Research!"...
+Examine the result down below
+
+
+Question #4:
+
+What Apache version has our target?
+
+Answer #4:
+
+apache/2.4.29
+
+![6](https://user-images.githubusercontent.com/109109176/180072993-78c3b14f-12bd-4a65-908e-c3941e5e6576.PNG)
+
+
+Question #5:
+
+What is our target OS?
+
+Answer #5:
+
+ubuntu
+
+
+Question #6:
+
+Come back to "ufonet" web page.
+Click on: "ship inspect"
+Another window opens to us...
+
+Here we are going to scan our target to find any large file that will facilitate our DDOS attack, if we request a large file, our victim will need to invest more resources and we will get it to crash before:
+In "Set page to crowl", write "http://ip" (ip = ip target machine)
+Click on "inspect!"...
+Examine the result down below.
+
+
+Question #7:
+
+What is the longest file of our target?
+
+http://target_ip/
+
+Answer #7:
+
+icons/ubuntu-logo.png
+
+![11](https://user-images.githubusercontent.com/109109176/180074221-30c5bab7-93cb-4da1-80f5-ebc1fcab7ea3.PNG)
+
+
+Question #8:
+
+Remember this file for later, because we'll use it for our attack.
+
+
+Question #9:
+
+Come back to "Ufonet" web page.
+Use the interactive menu, go to "explore" > "attack"
+
+In "Set your target" write: "http://ip" (ip = ip target machine)     
+In  "Set place to attack", write here the path to the largest file you found earlier.
+In "Number of rounds" write: 10
+Check option: "Generate map!"
+
+Click on ATTACK!!
+
+![1](https://user-images.githubusercontent.com/109109176/180074958-199c0750-4e6c-451f-af3d-f02da3493c95.PNG)
+
+Question #10:
+
+We have programmed "Ufonet" to carry out 10 attack rounds, as soon as the first round is carried out (1 minut aprox.), a box with statistics about the attack will appear at the bottom of the map, with the sections of "Conn", "Zombies", "Hits" and ...
+
+Answer #10:
+
+fails
+
+![2](https://user-images.githubusercontent.com/109109176/180075397-ce618807-eb1d-43ff-9132-43331f436331.PNG)
+
+Question #11:
+
+CONGRATULATIONS!! You have made your first attack with Ufonet, and your army is still standing, awaiting your orders.
+
+This has been a very simple demonstration, "Ufonet" is capable of doing many more things, but it has helped us to create a first contact with this tool.
+
+To be able to attack outside our own network we would need to do some additional configurations such as set up "Tor network" in our attack machine.
+
+You can also use Ufonet exclusively using commands from your terminal...
+
+If you want to go deeper into Ufonet you can try putting these commands in the terminal from the ufonet folder:
+
+./ufonet --help
+
+./ufonet --examples
+
+Or go to this Ufonet description web, in this link:
+
+https://ufonet.03c8.net/
+
+
+Answer #12:
+
+KING OF THE ZOMBIES
